@@ -2,9 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Siddharth%20Ganesh&fontSize=52&color=0:0d1117,100:003300&fontColor=00ff41&animation=fadeIn&fontAlignY=55&desc=AI%20%2F%20ML%20%7C%20SDE%20%7C%20Full-Stack%20%7C%20DSA%20%E2%80%94%20SRMIST%20CS%20%2727&descAlignY=75&descSize=15&descColor=39d353&stroke=00ff41&strokeWidth=1" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=700&lines=initializing+siddharth_ganesh.exe+...;%5B+AI+%2F+ML+%5D+%5B+SDE+%5D+%5B+Full-Stack+%5D+%5B+DSA+%5D+%5B+Research+%5D;8.27+CGPA+%7C+6+projects+%7C+2%2C200%2B+data+points+processed;building+%3A+zenith+%2F+tactifit+%2F+ocean-anomaly-detection;open+to+internships+%E2%80%94+any+domain%2C+any+stack" alt="Typing SVG" />
+<!-- WHITE RABBIT MATRIX MESSAGES -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=400&color=00FF41&center=true&vCenter=true&repeat=true&width=700&lines=Wake+up%2C+Siddharth...;The+Matrix+has+you...;Follow+the+white+rabbit+%F0%9F%90%87;Knock+knock%2C+Siddharth...;Do+you+want+to+know+what+it+is%3F;You+take+the+blue+pill+%E2%80%94+the+story+ends.;You+take+the+red+pill+%E2%80%94+you+stay+in+Wonderland.;Remember%3A+all+I%27m+offering+is+the+truth.;There+is+no+spoon.;Free+your+mind.;%5B+AI+%2F+ML+%5D+%5B+SDE+%5D+%5B+Full-Stack+%5D+%5B+DSA+%5D;initializing+siddharth_ganesh.exe+...;8.27+CGPA+%7C+6+projects+%7C+2%2C200%2B+data+points;open+to+internships+%E2%80%94+any+domain%2C+any+stack" alt="Matrix Typing SVG" />
 
 </div>
 
@@ -15,7 +14,11 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/0eK30UVXc1/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sg1938)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/muster_jazz_29)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganesh.siddharth@gmail.com)
+
+<br/>
+
+[![Gmail Personal](https://img.shields.io/badge/ganesh.siddharth%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganesh.siddharth@gmail.com)
+[![Gmail SRMIST](https://img.shields.io/badge/sg1938%40srmist.edu.in-D93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sg1938@srmist.edu.in)
 
 <br/>
 
@@ -38,7 +41,7 @@ I've shipped platforms serving 100+ real users, led a 500-person event, and mana
 
 **Domains:** AI/ML · Software Engineering · Full-Stack · DSA · Research · Leadership
 
-**What I'm looking for:** Internships across SDE, ML, full-stack, or research — any domain where I can build and ship fast.
+**Open to:** SDE · ML · Full-Stack · Backend · Frontend · Research internships
 
 </td>
 <td width="45%" valign="top">
@@ -80,7 +83,7 @@ I've shipped platforms serving 100+ real users, led a 500-person event, and mana
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -109,29 +112,29 @@ I've shipped platforms serving 100+ real users, led a 500-person event, and mana
 ![Networks](https://img.shields.io/badge/Computer_Networks-1572B6?style=flat-square&logo=cisco&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-**Tools & Platforms**
+**AI Tools**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude Cowork](https://img.shields.io/badge/Claude_Cowork-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-181717?style=flat-square&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Warp](https://img.shields.io/badge/Warp-01A4FF?style=flat-square&logo=warp&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white)
 
-**Core Dev Tools**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Warp](https://img.shields.io/badge/Warp-01A4FF?style=flat-square&logo=warp&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
@@ -202,24 +205,11 @@ Serverless event management system built in 3 agile sprints. Powers end-to-end l
 
 ---
 
-## ◈ Currently Learning
+## ◈ LeetCode Stats
 
 <div align="center">
 
-```
-[ ACTIVE DOWNLOADS ]
-
-  Large Language Models & RAG          ████████░░  80%
-  MLOps · Docker · FastAPI             ███████░░░  65%
-  Cloud Platforms — AWS / GCP          █████░░░░░  50%
-  Graph Neural Networks                ████░░░░░░  40%
-  System Design & Architecture         ██████░░░░  58%
-  React + TypeScript                   ███████░░░  65%
-  Competitive Programming (DSA)        ████████░░  75%
-  Computer Vision — Advanced           ███████░░░  68%
-  Transformers & Attention Mechanisms  ██████░░░░  60%
-  Database Internals & Query Opt.      █████░░░░░  48%
-```
+![LeetCode Stats](https://leetcard.jacoblin.cool/0eK30UVXc1?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&background=0d1117)
 
 </div>
 
@@ -264,6 +254,41 @@ Serverless event management system built in 3 agile sprints. Powers end-to-end l
 
 ---
 
+## ◈ 3D Contribution Globe
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
+
+</div>
+
+---
+
+## ◈ Currently Learning
+
+<div align="center">
+
+```
+[ ACTIVE DOWNLOADS ]
+
+  Large Language Models & RAG          ████████░░  80%
+  MLOps · Docker · FastAPI             ███████░░░  65%
+  Cloud Platforms — AWS / GCP          █████░░░░░  50%
+  Graph Neural Networks                ████░░░░░░  40%
+  System Design & Architecture         ██████░░░░  58%
+  React + TypeScript                   ███████░░░  65%
+  Competitive Programming (DSA)        ████████░░  75%
+  Computer Vision — Advanced           ███████░░░  68%
+  Transformers & Attention Mechanisms  ██████░░░░  60%
+  Database Internals & Query Opt.      █████░░░░░  48%
+  Kubernetes & DevOps                  ████░░░░░░  35%
+  Reinforcement Learning               ████░░░░░░  38%
+```
+
+</div>
+
+---
+
 ## ◈ Highlights
 
 | # | Achievement | Detail |
@@ -292,8 +317,6 @@ Serverless event management system built in 3 agile sprints. Powers end-to-end l
 ```
 01110011 01111000 01100100 01100100 01101000 01111000 01110010 01110100 01101000 01100111
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:001a00,100:0d1117&height=3&animation=fadeIn" />
 
 <sub><code>[ open to internships — SDE · ML · Full-Stack · Research ]</code></sub>
 
