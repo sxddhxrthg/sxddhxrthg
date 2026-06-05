@@ -202,13 +202,9 @@ Serverless event management system built in 3 agile sprints. Powers end-to-end l
 
 ---
 
-## ◈ Contribution Animation
+## ◈ PAC-MAN eats my contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution animation" src="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/pacman-dark.svg" alt="Pac-Man contribution graph" />
 
 ---
 
