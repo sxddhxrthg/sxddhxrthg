@@ -1,88 +1,20 @@
+<!-- MATRIX RAIN HEADER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Hey%2C+I'm+Siddharth+Ganesh+%F0%9F%91%8B;AI+%2F+ML+Engineer+%7C+SRMIST+CS+'27;Building+models+that+actually+work.;while(alive)+%7B+learn()%3B+ship()%3B+%7D" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Siddharth%20Ganesh&fontSize=50&color=0:00ff41,100:008f11&fontColor=00ff41&animation=fadeIn&fontAlignY=55&desc=AI%20Engineer%20%7C%20Builder%20%7C%20SRMIST%20CS%20'27&descAlignY=75&descSize=16" />
 
-<br/>
+</div>
 
-<!-- TRANSFORMER CARS ANIMATION - pure SVG, no external dependency, always works -->
-<svg width="800" height="110" viewBox="0 0 800 110" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="110" fill="#0d1117" rx="8"/>
-  <!-- Road -->
-  <rect x="0" y="80" width="800" height="30" fill="#161b22"/>
-  <!-- Dashed lane divider -->
-  <line x1="0" y1="96" x2="800" y2="96" stroke="#30363d" stroke-width="2" stroke-dasharray="25,18"/>
+<div align="center">
 
-  <!-- === BUMBLEBEE (yellow/orange) === -->
-  <g>
-    <animateTransform attributeName="transform" type="translate" from="-140 0" to="820 0" dur="5s" repeatCount="indefinite"/>
-    <!-- exhaust trail -->
-    <ellipse cx="-8" cy="88" rx="14" ry="4" fill="#f0883e" opacity="0.18"/>
-    <!-- body -->
-    <rect x="0" y="64" width="100" height="22" fill="#e09020" rx="5"/>
-    <!-- roof -->
-    <rect x="16" y="48" width="62" height="18" fill="#c8800a" rx="4"/>
-    <!-- windshield -->
-    <rect x="52" y="50" width="22" height="14" fill="#58a6ff" rx="2" opacity="0.85"/>
-    <!-- rear window -->
-    <rect x="18" y="50" width="18" height="13" fill="#58a6ff" rx="2" opacity="0.6"/>
-    <!-- headlight glow -->
-    <ellipse cx="104" cy="73" rx="18" ry="6" fill="#fff" opacity="0.08"/>
-    <!-- headlights -->
-    <rect x="98" y="67" width="5" height="6" fill="#fff" rx="1"/>
-    <rect x="98" y="77" width="5" height="5" fill="#ffe" rx="1"/>
-    <!-- taillights -->
-    <rect x="0" y="68" width="4" height="5" fill="#ff4444" rx="1" opacity="0.9"/>
-    <rect x="0" y="77" width="4" height="5" fill="#ff4444" rx="1" opacity="0.9"/>
-    <!-- wheels -->
-    <circle cx="20" cy="86" r="11" fill="#21262d" stroke="#f0883e" stroke-width="2.5"/>
-    <circle cx="20" cy="86" r="5" fill="#30363d"/>
-    <circle cx="80" cy="86" r="11" fill="#21262d" stroke="#f0883e" stroke-width="2.5"/>
-    <circle cx="80" cy="86" r="5" fill="#30363d"/>
-    <!-- autobot badge -->
-    <text x="38" y="62" fill="#1a1a1a" font-size="11" font-weight="bold" font-family="monospace">⚡B</text>
-    <!-- spoiler -->
-    <rect x="0" y="60" width="8" height="10" fill="#b87010" rx="2"/>
-  </g>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=650&lines=WAKE+UP%2C+SIDDHARTH...;THE+MATRIX+HAS+YOU...;Follow+the+white+rabbit+%F0%9F%90%87;while(alive)+%7B+learn()%3B+build()%3B+ship()%3B+%7D;LOADING+AI+PROTOCOLS...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" alt="Typing SVG" />
 
-  <!-- === OPTIMUS PRIME (red/blue) — delayed === -->
-  <g>
-    <animateTransform attributeName="transform" type="translate" from="-340 0" to="820 0" dur="5s" repeatCount="indefinite" begin="2s"/>
-    <!-- exhaust -->
-    <ellipse cx="-8" cy="88" rx="14" ry="4" fill="#3fb950" opacity="0.18"/>
-    <!-- body -->
-    <rect x="0" y="62" width="110" height="24" fill="#c0392b" rx="5"/>
-    <!-- roof -->
-    <rect x="14" y="46" width="68" height="18" fill="#922b21" rx="4"/>
-    <!-- windshield -->
-    <rect x="56" y="48" width="22" height="15" fill="#3fb950" rx="2" opacity="0.8"/>
-    <!-- rear window -->
-    <rect x="16" y="48" width="20" height="14" fill="#3fb950" rx="2" opacity="0.5"/>
-    <!-- headlight glow -->
-    <ellipse cx="115" cy="74" rx="20" ry="6" fill="#fff" opacity="0.07"/>
-    <!-- headlights -->
-    <rect x="108" y="66" width="5" height="7" fill="#fff" rx="1"/>
-    <rect x="108" y="77" width="5" height="6" fill="#ffe" rx="1"/>
-    <!-- taillights -->
-    <rect x="0" y="67" width="4" height="6" fill="#ff4444" rx="1" opacity="0.9"/>
-    <rect x="0" y="77" width="4" height="6" fill="#ff4444" rx="1" opacity="0.9"/>
-    <!-- wheels -->
-    <circle cx="22" cy="86" r="11" fill="#21262d" stroke="#3fb950" stroke-width="2.5"/>
-    <circle cx="22" cy="86" r="5" fill="#30363d"/>
-    <circle cx="88" cy="86" r="11" fill="#21262d" stroke="#3fb950" stroke-width="2.5"/>
-    <circle cx="88" cy="86" r="5" fill="#30363d"/>
-    <!-- badge -->
-    <text x="34" y="61" fill="#1a1a1a" font-size="11" font-weight="bold" font-family="monospace">★OP</text>
-    <!-- exhaust pipes on roof -->
-    <rect x="0" y="46" width="6" height="14" fill="#7b241c" rx="2"/>
-    <rect x="8" y="46" width="6" height="14" fill="#7b241c" rx="2"/>
-  </g>
+</div>
 
-  <!-- speed lines -->
-  <line x1="0" y1="70" x2="200" y2="70" stroke="#30363d" stroke-width="1" opacity="0.4" stroke-dasharray="8,30"/>
-  <line x1="0" y1="75" x2="150" y2="75" stroke="#30363d" stroke-width="1" opacity="0.3" stroke-dasharray="6,35"/>
-</svg>
+---
 
-<br/>
+<!-- SOCIAL BADGES -->
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sid09-ganesh/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siddharthganesh._/)
@@ -93,37 +25,42 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sxddhxrthg&color=58a6ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=sxddhxrthg&color=00ff41&style=flat-square&label=SYSTEM+ACCESS+COUNT)
+![GitHub followers](https://img.shields.io/github/followers/sxddhxrthg?style=flat-square&color=00ff41&label=Followers)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## ⬛ IDENTITY
 
-```python
-class SiddharthGanesh:
-    def __init__(self):
-        self.name       = "Siddharth Ganesh"
-        self.college    = "SRMIST, Kattankulatham — B.Tech CS, Class of 2027"
-        self.cgpa       = 8.27
-        self.location   = "Chennai, India 📍"
-        self.focus      = ["Deep Learning", "ML Pipelines", "Applied AI", "Full-Stack"]
-        self.currently  = [
-            "📊 Building analytics pipeline for 2,200+ survey respondents (ICSSR Research)",
-            "🌊 CNN-RF ensemble for ocean temperature anomaly detection",
-            "💸 Zenith — smart budget tracking platform",
-            "⚽ Tactifit — AI football scouting system",
-        ]
-        self.fun_fact   = "I've led a 500-person startup summit and written code at 3am. Both felt the same."
+<div align="center">
 
-    def __str__(self):
-        return "Building things that matter, one commit at a time."
 ```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   NAME     ::  Siddharth Ganesh                                  ║
+║   ROLE     ::  AI/ML Engineer + Builder                          ║
+║   BASE     ::  Chennai, India  [ SRMIST CS '27 ]                 ║
+║   CGPA     ::  8.27 / 10.0                                       ║
+║   STATUS   ::  [ ██████████ ] ACTIVE                             ║
+║                                                                  ║
+║   SYSTEMS  ::  Deep Learning · ML Pipelines · Applied AI         ║
+║               Full-Stack · Research · Leadership                 ║
+║                                                                  ║
+║   MISSION  ::  Building models that actually matter.             ║
+║                                                                  ║
+║   FUN FACT ::  Led a 500-person summit. Shipped code at 3am.     ║
+║               Both required the same energy.                    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 TECH STACK
 
 **Languages**
 
@@ -159,7 +96,19 @@ class SiddharthGanesh:
 
 ---
 
-## 🚀 Projects
+## 👾 PAC-MAN EATS MY COMMITS
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution animation" src="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+> 🔄 Auto-updates every 24h via GitHub Actions
+
+---
+
+## 🚀 PROJECTS
 
 <table>
 <tr>
@@ -168,7 +117,7 @@ class SiddharthGanesh:
 ### 🌊 Ocean Temp Anomaly Detection
 CNN-Random Forest ensemble (ResNet-101 + 500-tree RF) for North Indian Ocean SST prediction using Copernicus satellite data across 1,190 days.
 
-**MAE: 0.07°C** — outperforms standalone CNN by **30.45%** and RF by **45.24%**
+**MAE: 0.07°C** — beats standalone CNN by **30.45%** and RF by **45.24%**
 
 `Python` `PyTorch` `ResNet-101` `Scikit-learn` `Copernicus`
 
@@ -176,7 +125,7 @@ CNN-Random Forest ensemble (ResNet-101 + 500-tree RF) for North Indian Ocean SST
 <td width="50%" valign="top">
 
 ### ⚽ Tactifit — AI Football Scouting
-Clustering-based ML recommendation engine analyzing **500+ player profiles** across **50+ statistical features** with an interactive scouting dashboard.
+Clustering-based ML engine analyzing **500+ player profiles** across **50+ statistical features** with an interactive scouting dashboard.
 
 `Python` `K-Means` `Pandas` `ML Optimization`
 
@@ -185,8 +134,8 @@ Clustering-based ML recommendation engine analyzing **500+ player profiles** acr
 <tr>
 <td width="50%" valign="top">
 
-### 💸 Zenith — Budget Tracker
-Smart personal finance platform with intelligent spending insights, budget goal tracking, and visual analytics.
+### 💸 Zenith — Smart Budget Tracker
+Personal finance platform with intelligent spending insights, budget goal tracking, and visual analytics dashboard.
 
 `Python` `JavaScript` `Data Visualization`
 
@@ -204,7 +153,7 @@ Full-stack platform with **5 integrated ML modules** — KNN meal generator, CNN
 <td width="50%" valign="top">
 
 ### 🏛 ICSSR AI Governance Research
-Analytics pipeline processing survey data from **2,200+ respondents across 6 districts** — extracting trust & fairness metrics for AI-driven governance systems.
+Analytics pipeline for **2,200+ survey respondents across 6 districts** — extracting trust & fairness metrics for AI-driven governance systems.
 
 `Python` `Statistical Modeling` `Data Viz` `Research`
 
@@ -222,69 +171,150 @@ Serverless event management platform built across 3 agile sprints with end-to-en
 
 ---
 
-## 🐍 Contribution Animation
+## 📊 SYSTEM DIAGNOSTICS
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution animation" src="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
----
-
-## 📊 GitHub Stats
-
+<!-- NEW FEATURE 1: WakaTime-style skill bars using pure markdown -->
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sxddhxrthg&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxddhxrthg&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=sxddhxrthg&theme=github-dark-blue&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sxddhxrthg&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sxddhxrthg&theme=onestar&no-frame=true&column=7&margin-w=8" />
-
-</div>
-
----
-
-## 🏅 Highlights
-
-| 🏆 Achievement | 📋 Details |
+| Skill | Proficiency |
 |---|---|
-| 🎤 **Summit Head** | Led SRMIST's inaugural Startup Summit 1.0 — 500+ attendees, 30-member team |
-| 🤝 **Corporate Lead** | SRM ACM Student Chapter — secured 5+ industry sponsorships |
-| 📜 **Toastmasters** | Certified Toastmaster — public speaking & leadership |
-| 🎓 **NPTEL** | ML & Java certifications |
-| 🌐 **Cisco** | Networking Basics certified |
-| 📊 **Google** | Data Analytics foundations (Coursera) |
-
----
-
-## ✍️ Dev Quote
-
-<div align="center">
-
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+| Python / ML Engineering | `████████████████████` 95% |
+| Deep Learning (CNN / RF) | `███████████████████░` 90% |
+| Data Analysis & Viz | `██████████████████░░` 85% |
+| Full-Stack (JS / HTML) | `████████████████░░░░` 75% |
+| Research & Tech Writing | `████████████████████` 95% |
+| Leadership / PM | `████████████████████` 95% |
 
 </div>
 
 ---
 
+## 📈 GITHUB STATS
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=80&section=footer" />
-  <sub>⚡ Built different. Deployed daily.</sub>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sxddhxrthg&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxddhxrthg&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=sxddhxrthg&theme=matrix&hide_border=true&fire=00ff41&ring=00ff41&currStreakLabel=00ff41" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sxddhxrthg&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<!-- NEW FEATURE 2: GitHub Trophies with matrix theme -->
+## 🏆 TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sxddhxrthg&theme=matrix&no-frame=true&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" />
+
+</div>
+
+---
+
+<!-- NEW FEATURE 3: Streak calendar heatmap -->
+## 📅 CONTRIBUTION HEATMAP
+
+<div align="center">
+
+[![Siddharth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sxddhxrthg&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area_color=006400&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20LOG)](https://github.com/sxddhxrthg)
+
+</div>
+
+---
+
+<!-- NEW FEATURE 4: Achievements / Highlights table -->
+## 🏅 MISSION LOG
+
+| # | 🎯 Mission | 📋 Intel |
+|---|---|---|
+| 01 | 🎤 **Summit Head** | Led SRMIST's inaugural Startup Summit 1.0 — 500+ attendees, 30-member ops team |
+| 02 | 🤝 **Corporate Lead** | SRM ACM Student Chapter — secured 5+ industry sponsorships |
+| 03 | 📜 **Toastmasters** | Certified Toastmaster — public speaking & leadership |
+| 04 | 🎓 **NPTEL** | ML & Java certifications (Elite grade) |
+| 05 | 🌐 **Cisco** | Networking Basics certified |
+| 06 | 📊 **Google** | Data Analytics foundations — Coursera |
+
+---
+
+<!-- NEW FEATURE 5: Currently learning / roadmap -->
+## 🧬 CURRENT PROTOCOLS
+
+<div align="center">
+
+```
+[ ACTIVE DOWNLOADS ]
+
+  ▶ Large Language Models & Prompt Engineering    [ ████████░░ ] 80%
+  ▶ MLOps & Model Deployment (Docker / FastAPI)   [ ██████░░░░ ] 60%
+  ▶ Cloud Platforms (AWS / GCP)                   [ █████░░░░░ ] 50%
+  ▶ Graph Neural Networks                         [ ████░░░░░░ ] 40%
+  ▶ System Design                                 [ ██████░░░░ ] 55%
+```
+
+</div>
+
+---
+
+<!-- NEW FEATURE 6: Random dev joke - auto-refreshes -->
+## 😂 DAILY TRANSMISSION
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=dark&qColor=%2300ff41&aColor=%2300ff41&borderColor=%2300ff41&bgColor=%230d1117" alt="Jokes Card" />
+
+</div>
+
+---
+
+<!-- NEW FEATURE 7: Spotify-style now playing (static, but looks elite) -->
+## 🎧 CURRENTLY RUNNING
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────┐
+│  ▶  NOW EXECUTING                               │
+│                                                 │
+│     train_ocean_anomaly_model.py                │
+│     SRMIST Research Lab · Python 3.11           │
+│                                                 │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│  ◄◄  ▐▐  ▐▶   ↺   ♡                           │
+│  0:00 ████████████████████████████░░░  ∞:∞∞    │
+└─────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## ✍️ INTERCEPTED TRANSMISSION
+
+<div align="center">
+
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+Matrix+is+everywhere.+It+is+all+around+us.&author=Morpheus)
+
+</div>
+
+---
+
+<!-- MATRIX FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003b00&height=2" />
+
+```
+01010011 01001001 01000100 01000100 01001000 01000001 01010010 01010100 01001000 
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003b00,100:00ff41&height=100&section=footer&text=THE%20CODE%20IS%20REAL&fontSize=18&fontColor=00ff41&animation=twinkling&fontAlignY=65" />
+
 </div>
