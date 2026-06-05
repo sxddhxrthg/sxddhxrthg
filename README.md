@@ -31,38 +31,25 @@
 
 ## ◈ About
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-**Siddharth Ganesh** — 3rd year CS undergrad at SRMIST, Chennai. I build across the full stack — ML pipelines, backend systems, frontend interfaces, and DSA-heavy problem solving. My work spans applied AI research, full-stack product development, and data engineering.
-
-I've shipped platforms serving 100+ real users, led a 500-person event, and managed a national research study across 6 districts. I move fast, work across domains, and care about building things that actually work.
-
-**Domains:** AI/ML · Software Engineering · Full-Stack · DSA · Research · Leadership
-
-**Open to:** SDE · ML · Full-Stack · Backend · Frontend · Research internships
-
-</td>
-<td width="45%" valign="top">
-
 ```
-┌──────────────────────────────┐
-│  siddharth@srmist ~ $ whoami │
-├──────────────────────────────┤
-│  role   → SDE + AI Engineer  │
-│  degree → B.Tech CS '27      │
-│  cgpa   → 8.27 / 10          │
-│  base   → Chennai, India     │
-│  stack  → ML · SDE · DSA     │
-│           Full-Stack · PM    │
-│  status → open to work  ✦   │
-└──────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│  siddharth@srmist ~ $ whoami                                    │
+├─────────────────────────────────────────────────────────────────┤
+│  name    →  Siddharth Ganesh                                    │
+│  role    →  SDE + AI/ML Engineer                                │
+│  degree  →  B.Tech Computer Science, SRMIST '27                 │
+│  cgpa    →  8.27 / 10                                           │
+│  base    →  Chennai, India                                      │
+│  stack   →  ML · SDE · DSA · Full-Stack · Backend · Research    │
+│  status  →  open to internships ✦                               │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-</td>
-</tr>
-</table>
+3rd year CS undergrad at SRMIST, Chennai. I build across the full stack — ML pipelines, backend systems, frontend interfaces, and DSA-heavy problem solving. My work spans applied AI research, full-stack product development, and data engineering.
+
+I've shipped platforms serving **100+ real users**, led a **500-person startup summit**, and managed a **national ICSSR research study** across 6 districts and 2,200+ respondents. I move fast, work across domains, and care about building things that actually work.
+
+**Open to:** SDE · ML · Full-Stack · Backend · Frontend · Research — any domain, any stack.
 
 ---
 
@@ -248,7 +235,9 @@ Serverless event management system built in 3 agile sprints. Powers end-to-end l
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sxddhxrthg&theme=matrix&no-frame=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=sxddhxrthg&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" />
+
+
 
 </div>
 
