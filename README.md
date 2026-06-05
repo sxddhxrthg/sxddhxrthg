@@ -1,19 +1,13 @@
-<!-- MATRIX RAIN HEADER -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Siddharth%20Ganesh&fontSize=50&color=0:00ff41,100:008f11&fontColor=00ff41&animation=fadeIn&fontAlignY=55&desc=AI%20Engineer%20%7C%20Builder%20%7C%20SRMIST%20CS%20'27&descAlignY=75&descSize=16" />
-
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Siddharth%20Ganesh&fontSize=52&color=0:0d1117,100:1a1a2e&fontColor=e6edf3&animation=fadeIn&fontAlignY=55&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20SRMIST%20Computer%20Science%20%E2%80%98%2027&descAlignY=75&descSize=15&descColor=8b949e&stroke=58a6ff&strokeWidth=1" />
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=650&lines=WAKE+UP%2C+SIDDHARTH...;THE+MATRIX+HAS+YOU...;Follow+the+white+rabbit+%F0%9F%90%87;while(alive)+%7B+learn()%3B+build()%3B+ship()%3B+%7D;LOADING+AI+PROTOCOLS...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=600&color=58A6FF&center=true&vCenter=true&repeat=true&width=680&lines=initializing+siddharth_ganesh.exe+...;loading+neural+networks+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;8.27+CGPA+%7C+6+projects+%7C+2200%2B+data+points+processed;currently+building+%3A+zenith+%2F+ocean-anomaly+%2F+tactifit;open+to+internships+%E2%80%94+let%27s+build+something+real" alt="Typing SVG" />
 
 </div>
 
----
-
-<!-- SOCIAL BADGES -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sid09-ganesh/)
@@ -25,42 +19,49 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sxddhxrthg&color=00ff41&style=flat-square&label=SYSTEM+ACCESS+COUNT)
-![GitHub followers](https://img.shields.io/github/followers/sxddhxrthg?style=flat-square&color=00ff41&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=sxddhxrthg&color=58a6ff&style=flat-square&label=Profile+Views)&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/sxddhxrthg?style=flat-square&color=3fb950&label=Followers)
 
 </div>
 
 ---
 
-## ⬛ IDENTITY
+## ◈ About
 
-<div align="center">
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**Siddharth Ganesh** — 3rd year CS undergrad at SRMIST, Chennai. I build end-to-end ML systems and ship full-stack products. My work sits at the intersection of applied AI, data engineering, and real-world impact — from predicting ocean temperatures with satellite data to building fitness platforms used by 100+ people.
+
+Currently leading project management on a national ICSSR-funded research study spanning 6 districts and 2,200+ respondents. Outside research, I run events (500-person startup summit), lead teams, and code at unreasonable hours.
+
+**What I'm looking for:** ML/AI internships where I can build, ship, and learn fast.
+
+</td>
+<td width="45%" valign="top">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   NAME     ::  Siddharth Ganesh                                  ║
-║   ROLE     ::  AI/ML Engineer + Builder                          ║
-║   BASE     ::  Chennai, India  [ SRMIST CS '27 ]                 ║
-║   CGPA     ::  8.27 / 10.0                                       ║
-║   STATUS   ::  [ ██████████ ] ACTIVE                             ║
-║                                                                  ║
-║   SYSTEMS  ::  Deep Learning · ML Pipelines · Applied AI         ║
-║               Full-Stack · Research · Leadership                 ║
-║                                                                  ║
-║   MISSION  ::  Building models that actually matter.             ║
-║                                                                  ║
-║   FUN FACT ::  Led a 500-person summit. Shipped code at 3am.     ║
-║               Both required the same energy.                    ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+ ┌─────────────────────────────┐
+ │  siddharth@srmist:~$ whoami │
+ ├─────────────────────────────┤
+ │  role    → AI/ML Engineer   │
+ │  degree  → B.Tech CS '27    │
+ │  cgpa    → 8.27 / 10        │
+ │  base    → Chennai, India   │
+ │  focus   → ML · Research    │
+ │            Full-Stack · PM  │
+ │  status  → open to work ✦  │
+ └─────────────────────────────┘
 ```
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 TECH STACK
+## ◈ Tech Stack
 
 **Languages**
 
@@ -96,74 +97,66 @@
 
 ---
 
-## 👾 PAC-MAN EATS MY COMMITS
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution animation" src="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-> 🔄 Auto-updates every 24h via GitHub Actions
-
----
-
-## 🚀 PROJECTS
+## ◈ Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌊 Ocean Temp Anomaly Detection
-CNN-Random Forest ensemble (ResNet-101 + 500-tree RF) for North Indian Ocean SST prediction using Copernicus satellite data across 1,190 days.
+**🌊 Ocean Temperature Anomaly Detection**
 
-**MAE: 0.07°C** — beats standalone CNN by **30.45%** and RF by **45.24%**
+CNN-RF ensemble (ResNet-101 + 500-tree RF) predicting North Indian Ocean SST from Copernicus satellite data across 1,190 days. **MAE: 0.07°C** — outperforms standalone CNN by **30.45%** and RF by **45.24%**.
 
-`Python` `PyTorch` `ResNet-101` `Scikit-learn` `Copernicus`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚽ Tactifit — AI Football Scouting
-Clustering-based ML engine analyzing **500+ player profiles** across **50+ statistical features** with an interactive scouting dashboard.
-
-`Python` `K-Means` `Pandas` `ML Optimization`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💸 Zenith — Smart Budget Tracker
-Personal finance platform with intelligent spending insights, budget goal tracking, and visual analytics dashboard.
-
-`Python` `JavaScript` `Data Visualization`
+`PyTorch` `ResNet-101` `Scikit-learn` `Copernicus API`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏋️ AI Nutrition & Fitness Platform
-Full-stack platform with **5 integrated ML modules** — KNN meal generator, CNN exercise classifier, regression calorie tracker, workout planner, hydration reminder. Serves **100+ users**.
+**⚽ Tactifit — AI Football Scouting**
 
-`Python` `JavaScript` `KNN` `CNN` `Regression`
+K-Means clustering engine profiling **500+ players** across **50+ features**. Interactive dashboard for tactical decisions and data-driven recruitment.
+
+`Python` `K-Means` `Pandas` `Dashboard`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏛 ICSSR AI Governance Research
-Analytics pipeline for **2,200+ survey respondents across 6 districts** — extracting trust & fairness metrics for AI-driven governance systems.
+**💸 Zenith — Budget Tracker**
 
-`Python` `Statistical Modeling` `Data Viz` `Research`
+Smart personal finance platform with intelligent spending categorisation, goal tracking, and visual analytics.
+
+`Python` `JavaScript` `Data Viz`
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ SummitFlow — Event Platform
-Serverless event management platform built across 3 agile sprints with end-to-end logistics and dynamic scheduling.
+**🏋️ AI Nutrition & Fitness Platform**
 
-`Serverless` `JavaScript` `Agile/Scrum`
+Full-stack platform with **5 ML modules** — KNN meal planner, CNN exercise classifier, regression calorie tracker, workout scheduler, hydration system. **100+ active users.**
+
+`Python` `KNN` `CNN` `Regression`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏛 ICSSR AI Governance Research**
+
+National research initiative — analytics pipeline across **2,200+ respondents, 6 districts** extracting trust and fairness metrics for AI-driven e-governance.
+
+`Python` `Statistical Modelling` `Research`
+
+</td>
+<td width="50%" valign="top">
+
+**☁️ SummitFlow — Event Platform**
+
+Serverless event management system built in 3 agile sprints. Powers end-to-end logistics, speaker scheduling, and attendee flows.
+
+`Serverless` `JavaScript` `Agile`
 
 </td>
 </tr>
@@ -171,150 +164,103 @@ Serverless event management platform built across 3 agile sprints with end-to-en
 
 ---
 
-## 📊 SYSTEM DIAGNOSTICS
+## ◈ Skills
 
-<!-- NEW FEATURE 1: WakaTime-style skill bars using pure markdown -->
 <div align="center">
 
-| Skill | Proficiency |
+| Domain | Level |
 |---|---|
-| Python / ML Engineering | `████████████████████` 95% |
-| Deep Learning (CNN / RF) | `███████████████████░` 90% |
-| Data Analysis & Viz | `██████████████████░░` 85% |
-| Full-Stack (JS / HTML) | `████████████████░░░░` 75% |
-| Research & Tech Writing | `████████████████████` 95% |
-| Leadership / PM | `████████████████████` 95% |
+| Python & ML Engineering | `████████████████████` Expert |
+| Deep Learning — CNN / Ensemble | `███████████████████░` Advanced |
+| Data Analysis & Visualisation | `██████████████████░░` Advanced |
+| Research & Technical Writing | `████████████████████` Expert |
+| Full-Stack Development | `████████████████░░░░` Proficient |
+| Project & Team Leadership | `████████████████████` Expert |
 
 </div>
 
 ---
 
-## 📈 GITHUB STATS
+## ◈ PAC-MAN eats my contributions
+
+> Every dot is a commit. Updated daily via GitHub Actions.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake.svg" />
+  <img alt="pac-man contribution animation" src="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+---
+
+## ◈ GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sxddhxrthg&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxddhxrthg&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats-three-nu-85.vercel.app/api?username=sxddhxrthg&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats-three-nu-85.vercel.app/api/top-langs/?username=sxddhxrthg&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=sxddhxrthg&theme=matrix&hide_border=true&fire=00ff41&ring=00ff41&currStreakLabel=00ff41" />
+<img src="https://streak-stats.demolab.com?user=sxddhxrthg&theme=github-dark-blue&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sxddhxrthg&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sxddhxrthg&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-<!-- NEW FEATURE 2: GitHub Trophies with matrix theme -->
-## 🏆 TROPHIES
+## ◈ Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sxddhxrthg&theme=matrix&no-frame=true&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" />
+<img src="https://github-profile-trophy.vercel.app/?username=sxddhxrthg&theme=onestar&no-frame=true&column=7&margin-w=8" />
 
 </div>
 
 ---
 
-<!-- NEW FEATURE 3: Streak calendar heatmap -->
-## 📅 CONTRIBUTION HEATMAP
+## ◈ Currently Learning
 
 <div align="center">
 
-[![Siddharth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sxddhxrthg&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area_color=006400&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20LOG)](https://github.com/sxddhxrthg)
+```
+  LLMs & Prompt Engineering    ████████░░  80%
+  MLOps · Docker · FastAPI     ██████░░░░  60%
+  Cloud Platforms (AWS/GCP)    █████░░░░░  50%
+  Graph Neural Networks        ████░░░░░░  40%
+  System Design                ██████░░░░  55%
+```
 
 </div>
 
 ---
 
-<!-- NEW FEATURE 4: Achievements / Highlights table -->
-## 🏅 MISSION LOG
+## ◈ Highlights
 
-| # | 🎯 Mission | 📋 Intel |
+| # | Achievement | Detail |
 |---|---|---|
-| 01 | 🎤 **Summit Head** | Led SRMIST's inaugural Startup Summit 1.0 — 500+ attendees, 30-member ops team |
-| 02 | 🤝 **Corporate Lead** | SRM ACM Student Chapter — secured 5+ industry sponsorships |
-| 03 | 📜 **Toastmasters** | Certified Toastmaster — public speaking & leadership |
-| 04 | 🎓 **NPTEL** | ML & Java certifications (Elite grade) |
-| 05 | 🌐 **Cisco** | Networking Basics certified |
-| 06 | 📊 **Google** | Data Analytics foundations — Coursera |
+| 01 | 🎤 Summit Head | SRMIST Startup Summit 1.0 — 500+ attendees, 30-member team |
+| 02 | 🤝 Corporate Lead | SRM ACM — 5+ industry sponsorships secured |
+| 03 | 📜 Toastmasters | Certified — public speaking & leadership |
+| 04 | 🎓 NPTEL | ML + Java certifications |
+| 05 | 🌐 Cisco | Networking Basics |
+| 06 | 📊 Google | Data Analytics — Coursera |
 
 ---
 
-<!-- NEW FEATURE 5: Currently learning / roadmap -->
-## 🧬 CURRENT PROTOCOLS
+## ◈ Quote
 
 <div align="center">
 
-```
-[ ACTIVE DOWNLOADS ]
-
-  ▶ Large Language Models & Prompt Engineering    [ ████████░░ ] 80%
-  ▶ MLOps & Model Deployment (Docker / FastAPI)   [ ██████░░░░ ] 60%
-  ▶ Cloud Platforms (AWS / GCP)                   [ █████░░░░░ ] 50%
-  ▶ Graph Neural Networks                         [ ████░░░░░░ ] 40%
-  ▶ System Design                                 [ ██████░░░░ ] 55%
-```
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
 ---
 
-<!-- NEW FEATURE 6: Random dev joke - auto-refreshes -->
-## 😂 DAILY TRANSMISSION
-
 <div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=dark&qColor=%2300ff41&aColor=%2300ff41&borderColor=%2300ff41&bgColor=%230d1117" alt="Jokes Card" />
-
-</div>
-
----
-
-<!-- NEW FEATURE 7: Spotify-style now playing (static, but looks elite) -->
-## 🎧 CURRENTLY RUNNING
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────┐
-│  ▶  NOW EXECUTING                               │
-│                                                 │
-│     train_ocean_anomaly_model.py                │
-│     SRMIST Research Lab · Python 3.11           │
-│                                                 │
-│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
-│  ◄◄  ▐▐  ▐▶   ↺   ♡                           │
-│  0:00 ████████████████████████████░░░  ∞:∞∞    │
-└─────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## ✍️ INTERCEPTED TRANSMISSION
-
-<div align="center">
-
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+Matrix+is+everywhere.+It+is+all+around+us.&author=Morpheus)
-
-</div>
-
----
-
-<!-- MATRIX FOOTER -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003b00&height=2" />
-
-```
-01010011 01001001 01000100 01000100 01001000 01000001 01010010 01010100 01001000 
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003b00,100:00ff41&height=100&section=footer&text=THE%20CODE%20IS%20REAL&fontSize=18&fontColor=00ff41&animation=twinkling&fontAlignY=65" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer&text=open%20to%20internships%20%E2%80%94%20let%27s%20build&fontSize=14&fontColor=8b949e&animation=fadeIn&fontAlignY=70" />
 </div>
