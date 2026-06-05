@@ -231,7 +231,7 @@ Serverless event management system built in 3 agile sprints. Powers end-to-end l
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sxddhxrthg&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=sxddhxrthg&theme=onestar&no-frame=true&column=4&margin-w=8" />
 
 
 
