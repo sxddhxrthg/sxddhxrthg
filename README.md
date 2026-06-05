@@ -2,80 +2,84 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Hey%2C+I'm+Siddharth+Ganesh+%F0%9F%91%8B;AI+%2F+ML+Engineer+%7C+SRMIST+CS+'27;Building+models+that+actually+work.;while(alive)+%7B+learn()%3B+ship()%3B+%7D" alt="Typing SVG" />
 
-<!-- TRANSFORMERS ANIMATION -->
 <br/>
 
-```
-⚡ AUTOBOTS, ROLL OUT ⚡
-
-    ██████╗  ██████╗ ██╗     ██╗         ██████╗ ██╗   ██╗████████╗
-    ██╔══██╗██╔═══██╗██║     ██║        ██╔═══██╗██║   ██║╚══██╔══╝
-    ██████╔╝██║   ██║██║     ██║        ██║   ██║██║   ██║   ██║   
-    ██╔══██╗██║   ██║██║     ██║        ██║   ██║██║   ██║   ██║   
-    ██║  ██║╚██████╔╝███████╗███████╗   ╚██████╔╝╚██████╔╝   ██║   
-    ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝    ╚═════╝  ╚═════╝    ╚═╝   
-```
-
-<!-- AUTOBOT TRANSFORMER SVG ANIMATION -->
-<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="trailGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:0"/>
-      <stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0.6"/>
-    </linearGradient>
-  </defs>
+<!-- TRANSFORMER CARS ANIMATION - pure SVG, no external dependency, always works -->
+<svg width="800" height="110" viewBox="0 0 800 110" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="110" fill="#0d1117" rx="8"/>
   <!-- Road -->
-  <rect x="0" y="90" width="800" height="30" fill="#161b22" rx="4"/>
-  <rect x="0" y="103" width="800" height="4" fill="#21262d"/>
-  <!-- Dashed center line -->
-  <line x1="0" y1="105" x2="800" y2="105" stroke="#30363d" stroke-width="2" stroke-dasharray="20,15"/>
-  
-  <!-- Car body (Bumblebee style) -->
-  <g id="car">
-    <animateTransform attributeName="transform" type="translate" from="-120 0" to="900 0" dur="4s" repeatCount="indefinite" begin="0s"/>
-    <!-- Trail -->
-    <rect x="-80" y="60" width="80" height="6" fill="url(#trailGrad)" rx="3"/>
-    <!-- Car base -->
-    <rect x="0" y="68" width="100" height="24" fill="#f0883e" rx="6"/>
-    <!-- Car top -->
-    <rect x="18" y="52" width="64" height="20" fill="#f0883e" rx="5"/>
-    <!-- Windshield -->
-    <rect x="55" y="54" width="22" height="16" fill="#58a6ff" rx="2" opacity="0.8"/>
-    <!-- Headlights -->
-    <circle cx="100" cy="75" r="4" fill="#fff" opacity="0.9"/>
-    <circle cx="100" cy="85" r="4" fill="#fff" opacity="0.9"/>
-    <!-- Taillights -->
-    <circle cx="2" cy="75" r="3" fill="#ff4444" opacity="0.9"/>
-    <circle cx="2" cy="85" r="3" fill="#ff4444" opacity="0.9"/>
-    <!-- Wheels -->
-    <circle cx="22" cy="92" r="10" fill="#21262d" stroke="#58a6ff" stroke-width="2"/>
-    <circle cx="22" cy="92" r="4" fill="#30363d"/>
-    <circle cx="78" cy="92" r="10" fill="#21262d" stroke="#58a6ff" stroke-width="2"/>
-    <circle cx="78" cy="92" r="4" fill="#30363d"/>
-    <!-- Autobot symbol on hood -->
-    <text x="35" y="67" fill="#1a1a2e" font-size="10" font-weight="bold">⚡</text>
-    <!-- Headlight beam -->
-    <polygon points="104,72 140,65 140,95 104,88" fill="#fff" opacity="0.15"/>
+  <rect x="0" y="80" width="800" height="30" fill="#161b22"/>
+  <!-- Dashed lane divider -->
+  <line x1="0" y1="96" x2="800" y2="96" stroke="#30363d" stroke-width="2" stroke-dasharray="25,18"/>
+
+  <!-- === BUMBLEBEE (yellow/orange) === -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="-140 0" to="820 0" dur="5s" repeatCount="indefinite"/>
+    <!-- exhaust trail -->
+    <ellipse cx="-8" cy="88" rx="14" ry="4" fill="#f0883e" opacity="0.18"/>
+    <!-- body -->
+    <rect x="0" y="64" width="100" height="22" fill="#e09020" rx="5"/>
+    <!-- roof -->
+    <rect x="16" y="48" width="62" height="18" fill="#c8800a" rx="4"/>
+    <!-- windshield -->
+    <rect x="52" y="50" width="22" height="14" fill="#58a6ff" rx="2" opacity="0.85"/>
+    <!-- rear window -->
+    <rect x="18" y="50" width="18" height="13" fill="#58a6ff" rx="2" opacity="0.6"/>
+    <!-- headlight glow -->
+    <ellipse cx="104" cy="73" rx="18" ry="6" fill="#fff" opacity="0.08"/>
+    <!-- headlights -->
+    <rect x="98" y="67" width="5" height="6" fill="#fff" rx="1"/>
+    <rect x="98" y="77" width="5" height="5" fill="#ffe" rx="1"/>
+    <!-- taillights -->
+    <rect x="0" y="68" width="4" height="5" fill="#ff4444" rx="1" opacity="0.9"/>
+    <rect x="0" y="77" width="4" height="5" fill="#ff4444" rx="1" opacity="0.9"/>
+    <!-- wheels -->
+    <circle cx="20" cy="86" r="11" fill="#21262d" stroke="#f0883e" stroke-width="2.5"/>
+    <circle cx="20" cy="86" r="5" fill="#30363d"/>
+    <circle cx="80" cy="86" r="11" fill="#21262d" stroke="#f0883e" stroke-width="2.5"/>
+    <circle cx="80" cy="86" r="5" fill="#30363d"/>
+    <!-- autobot badge -->
+    <text x="38" y="62" fill="#1a1a1a" font-size="11" font-weight="bold" font-family="monospace">⚡B</text>
+    <!-- spoiler -->
+    <rect x="0" y="60" width="8" height="10" fill="#b87010" rx="2"/>
   </g>
 
-  <!-- Second car (Optimus style, delayed) -->
-  <g id="car2">
-    <animateTransform attributeName="transform" type="translate" from="-300 0" to="720 0" dur="4s" repeatCount="indefinite" begin="1.5s"/>
-    <rect x="-60" y="62" width="60" height="5" fill="url(#trailGrad)" rx="3" opacity="0.5"/>
-    <rect x="0" y="66" width="110" height="26" fill="#c0392b" rx="6"/>
-    <rect x="15" y="50" width="70" height="20" fill="#c0392b" rx="5"/>
-    <rect x="52" y="52" width="26" height="16" fill="#3fb950" rx="2" opacity="0.7"/>
-    <circle cx="110" cy="74" r="4" fill="#fff" opacity="0.9"/>
-    <circle cx="110" cy="88" r="4" fill="#fff" opacity="0.9"/>
-    <circle cx="2" cy="74" r="3" fill="#ff4444" opacity="0.9"/>
-    <circle cx="2" cy="88" r="3" fill="#ff4444" opacity="0.9"/>
-    <circle cx="24" cy="92" r="10" fill="#21262d" stroke="#3fb950" stroke-width="2"/>
-    <circle cx="24" cy="92" r="4" fill="#30363d"/>
-    <circle cx="86" cy="92" r="10" fill="#21262d" stroke="#3fb950" stroke-width="2"/>
-    <circle cx="86" cy="92" r="4" fill="#30363d"/>
-    <text x="33" y="66" fill="#1a1a2e" font-size="10" font-weight="bold">★</text>
-    <polygon points="114,70 155,63 155,95 114,90" fill="#fff" opacity="0.1"/>
+  <!-- === OPTIMUS PRIME (red/blue) — delayed === -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="-340 0" to="820 0" dur="5s" repeatCount="indefinite" begin="2s"/>
+    <!-- exhaust -->
+    <ellipse cx="-8" cy="88" rx="14" ry="4" fill="#3fb950" opacity="0.18"/>
+    <!-- body -->
+    <rect x="0" y="62" width="110" height="24" fill="#c0392b" rx="5"/>
+    <!-- roof -->
+    <rect x="14" y="46" width="68" height="18" fill="#922b21" rx="4"/>
+    <!-- windshield -->
+    <rect x="56" y="48" width="22" height="15" fill="#3fb950" rx="2" opacity="0.8"/>
+    <!-- rear window -->
+    <rect x="16" y="48" width="20" height="14" fill="#3fb950" rx="2" opacity="0.5"/>
+    <!-- headlight glow -->
+    <ellipse cx="115" cy="74" rx="20" ry="6" fill="#fff" opacity="0.07"/>
+    <!-- headlights -->
+    <rect x="108" y="66" width="5" height="7" fill="#fff" rx="1"/>
+    <rect x="108" y="77" width="5" height="6" fill="#ffe" rx="1"/>
+    <!-- taillights -->
+    <rect x="0" y="67" width="4" height="6" fill="#ff4444" rx="1" opacity="0.9"/>
+    <rect x="0" y="77" width="4" height="6" fill="#ff4444" rx="1" opacity="0.9"/>
+    <!-- wheels -->
+    <circle cx="22" cy="86" r="11" fill="#21262d" stroke="#3fb950" stroke-width="2.5"/>
+    <circle cx="22" cy="86" r="5" fill="#30363d"/>
+    <circle cx="88" cy="86" r="11" fill="#21262d" stroke="#3fb950" stroke-width="2.5"/>
+    <circle cx="88" cy="86" r="5" fill="#30363d"/>
+    <!-- badge -->
+    <text x="34" y="61" fill="#1a1a1a" font-size="11" font-weight="bold" font-family="monospace">★OP</text>
+    <!-- exhaust pipes on roof -->
+    <rect x="0" y="46" width="6" height="14" fill="#7b241c" rx="2"/>
+    <rect x="8" y="46" width="6" height="14" fill="#7b241c" rx="2"/>
   </g>
+
+  <!-- speed lines -->
+  <line x1="0" y1="70" x2="200" y2="70" stroke="#30363d" stroke-width="1" opacity="0.4" stroke-dasharray="8,30"/>
+  <line x1="0" y1="75" x2="150" y2="75" stroke="#30363d" stroke-width="1" opacity="0.3" stroke-dasharray="6,35"/>
 </svg>
 
 <br/>
@@ -87,8 +91,9 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/muster_jazz_29)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganesh.siddharth@gmail.com)
 
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=sxddhxrthg&color=58a6ff&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/sxddhxrthg?style=flat-square&color=3fb950&label=Followers)
 
 </div>
 
@@ -150,7 +155,7 @@ class SiddharthGanesh:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
@@ -207,7 +212,7 @@ Analytics pipeline processing survey data from **2,200+ respondents across 6 dis
 <td width="50%" valign="top">
 
 ### ☁️ SummitFlow — Event Platform
-Serverless event management platform built across 3 agile sprints. End-to-end logistics, speaker coordination, dynamic scheduling.
+Serverless event management platform built across 3 agile sprints with end-to-end logistics and dynamic scheduling.
 
 `Serverless` `JavaScript` `Agile/Scrum`
 
@@ -217,20 +222,30 @@ Serverless event management platform built across 3 agile sprints. End-to-end lo
 
 ---
 
+## 🐍 Contribution Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution animation" src="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sxddhxrthg&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sxddhxrthg&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxddhxrthg&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sxddhxrthg&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sxddhxrthg&theme=github-dark-blue&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sxddhxrthg&theme=github-compact&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sxddhxrthg&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff" />
 
 </div>
 
@@ -240,7 +255,7 @@ Serverless event management platform built across 3 agile sprints. End-to-end lo
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sxddhxrthg&theme=onestar&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=sxddhxrthg&theme=onestar&no-frame=true&column=7&margin-w=8" />
 
 </div>
 
@@ -270,6 +285,6 @@ Serverless event management platform built across 3 agile sprints. End-to-end lo
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=80&section=footer&fontSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=80&section=footer" />
   <sub>⚡ Built different. Deployed daily.</sub>
 </div>
