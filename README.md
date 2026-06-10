@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Siddharth%20Ganesh&fontSize=52&color=0:0d1117,100:003300&fontColor=00ff41&animation=fadeIn&fontAlignY=55&desc=AI%20%2F%20ML%20%7C%20SDE%20%7C%20Full-Stack%20%7C%20DSA%20%E2%80%94%20SRMIST%20CS%20%2727&descAlignY=75&descSize=15&descColor=39d353&stroke=00ff41&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Siddharth%20Ganesh&fontSize=52&color=0:0d1117,100:003300&fontColor=00ff41&animation=fadeIn&fontAlignY=55&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20SRMIST%20%2727&descAlignY=75&descSize=14&descColor=39d353&stroke=00ff41&strokeWidth=1" />
 
-<!-- WHITE RABBIT MATRIX MESSAGES -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=400&color=00FF41&center=true&vCenter=true&repeat=true&width=700&lines=Wake+up%2C+Siddharth...;The+Matrix+has+you...;Follow+the+white+rabbit+%F0%9F%90%87;Knock+knock%2C+Siddharth...;Do+you+want+to+know+what+it+is%3F;You+take+the+blue+pill+%E2%80%94+the+story+ends.;You+take+the+red+pill+%E2%80%94+you+stay+in+Wonderland.;Remember%3A+all+I%27m+offering+is+the+truth.;There+is+no+spoon.;Free+your+mind.;%5B+AI+%2F+ML+%5D+%5B+SDE+%5D+%5B+Full-Stack+%5D+%5B+DSA+%5D;initializing+siddharth_ganesh.exe+...;8.27+CGPA+%7C+6+projects+%7C+2%2C200%2B+data+points;open+to+internships+%E2%80%94+any+domain%2C+any+stack" alt="Matrix Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=400&color=00FF41&center=true&vCenter=true&repeat=true&width=700&lines=Wake+up%2C+Siddharth...;The+Matrix+has+you...;Follow+the+white+rabbit+%F0%9F%90%87;Knock+knock%2C+Siddharth...;You+take+the+blue+pill+%E2%80%94+the+story+ends.;You+take+the+red+pill+%E2%80%94+you+stay+in+Wonderland.;Remember%3A+all+I%27m+offering+is+the+truth.;There+is+no+spoon.;Free+your+mind.;Software+Engineer+%E2%80%A2+AI%2FML+%E2%80%A2+Full-Stack+%E2%80%A2+SRMIST+%2727;Open+to+Software+Engineering%2C+AI%2FML+and+Full-Stack+opportunities." alt="Matrix Typing SVG" />
 
 </div>
 
@@ -35,21 +34,29 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │  siddharth@srmist ~ $ whoami                                    │
 ├─────────────────────────────────────────────────────────────────┤
-│  name    →  Siddharth Ganesh                                    │
-│  role    →  SDE + AI/ML Engineer                                │
+│  role    →  Software Engineer • AI/ML Enthusiast                │
 │  degree  →  B.Tech Computer Science, SRMIST '27                 │
-│  cgpa    →  8.27 / 10                                           │
 │  base    →  Chennai, India                                      │
-│  stack   →  ML · SDE · DSA · Full-Stack · Backend · Research    │
-│  status  →  open to internships ✦                               │
+│  stack   →  ML · Full-Stack · Flutter · DSA · Research          │
+│  status  →  Open to Software Engineering, AI/ML                 │
+│             and Full-Stack opportunities ✦                      │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-3rd year CS undergrad at SRMIST, Chennai. I build across the full stack — ML pipelines, backend systems, frontend interfaces, and DSA-heavy problem solving. My work spans applied AI research, full-stack product development, and data engineering.
+3rd year CS undergrad at SRMIST, Chennai. I build things end to end — from training ML models on satellite data to shipping mobile apps with real users. My work spans research, full-stack development, and applied AI.
 
-I've shipped platforms serving **100+ real users**, led a **500-person startup summit**, and managed a **national ICSSR research study** across 6 districts and 2,200+ respondents. I move fast, work across domains, and care about building things that actually work.
+I've led a 500-person startup summit, managed a national research initiative across 6 districts, and shipped platforms that people actually use. I care about writing good code and building things that matter.
 
-**Open to:** SDE · ML · Full-Stack · Backend · Frontend · Research — any domain, any stack.
+---
+
+## ◈ Current Focus
+
+```
+  • Building Zenith Budget       — Flutter app with UPI parsing & analytics
+  • Learning LLMs & RAG          — applied to real projects
+  • Solving DSA                  — consistent practice for placements
+  • Open to internships and collaborations
+```
 
 ---
 
@@ -62,24 +69,15 @@ I've shipped platforms serving **100+ real users**, led a **500-person startup s
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**AI / ML / Data Science**
+**Mobile & Web**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-
-**Web & Full-Stack**
-
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -87,7 +85,18 @@ I've shipped platforms serving **100+ real users**, led a **500-person startup s
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
 **DSA & CS Fundamentals**
 
@@ -96,8 +105,22 @@ I've shipped platforms serving **100+ real users**, led a **500-person startup s
 ![OOP](https://img.shields.io/badge/OOP-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![OS](https://img.shields.io/badge/Operating_Systems-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Networks](https://img.shields.io/badge/Computer_Networks-1572B6?style=flat-square&logo=cisco&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Warp](https://img.shields.io/badge/Warp-01A4FF?style=flat-square&logo=warp&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 **AI Tools**
 
@@ -108,21 +131,6 @@ I've shipped platforms serving **100+ real users**, led a **500-person startup s
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white)
 
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Warp](https://img.shields.io/badge/Warp-01A4FF?style=flat-square&logo=warp&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
-
 ---
 
 ## ◈ Projects
@@ -131,60 +139,60 @@ I've shipped platforms serving **100+ real users**, led a **500-person startup s
 <tr>
 <td width="50%" valign="top">
 
-**🌊 Ocean Temperature Anomaly Detection**
+**[💸 Zenith — Budget Tracker](https://github.com/sxddhxrthg/zenith)**
 
-CNN-RF ensemble (ResNet-101 + 500-tree RF) predicting North Indian Ocean SST from Copernicus satellite data across 1,190 days. **MAE: 0.07°C** — outperforms standalone CNN by **30.45%** and RF by **45.24%**.
+Flutter app that parses UPI notifications, automatically categorises spending, and presents a clean analytics dashboard. Built for real daily use.
 
-`PyTorch` `ResNet-101` `Scikit-learn` `Copernicus API`
+`Flutter` `Dart` `UPI Parsing` `Analytics`
 
 </td>
 <td width="50%" valign="top">
 
-**⚽ Tactifit — AI Football Scouting**
+**[🌊 Ocean Temperature Anomaly Detection](https://github.com/sxddhxrthg/ocean-temp-anomaly)**
 
-K-Means clustering engine profiling **500+ players** across **50+ features**. Interactive scouting dashboard for tactical and data-driven recruitment decisions.
+CNN-RF ensemble (ResNet-101 + 500-tree RF) predicting North Indian Ocean SST using Copernicus satellite data across 1,190 days. **MAE: 0.07°C** — outperforms standalone CNN by **30.45%** and RF by **45.24%**.
+
+`PyTorch` `ResNet-101` `Scikit-learn` `Copernicus`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[⚽ Tactifit — Football Scouting](https://github.com/sxddhxrthg/tactifit)**
+
+K-Means clustering engine that profiles **500+ players** across **50+ statistical features**. Built with an interactive dashboard for scouting and tactical analysis.
 
 `Python` `K-Means` `Pandas` `Dashboard`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-**💸 Zenith — Smart Budget Tracker**
+**[🏋️ AI Nutrition & Fitness Platform](https://github.com/sxddhxrthg/fitness-platform)**
 
-Personal finance platform with intelligent spending categorisation, budget goal tracking, and visual analytics dashboard.
+Full-stack platform with 5 integrated ML modules — KNN meal planner, CNN exercise classifier, regression calorie tracker, workout planner, hydration system. **100+ users.**
 
-`Python` `JavaScript` `Full-Stack` `Data Viz`
-
-</td>
-<td width="50%" valign="top">
-
-**🏋️ AI Nutrition & Fitness Platform**
-
-Full-stack platform with **5 ML modules** — KNN meal planner, CNN exercise classifier, regression calorie tracker, workout scheduler, hydration system. **100+ active users.**
-
-`Python` `JavaScript` `KNN` `CNN` `Regression`
+`Python` `JavaScript` `KNN` `CNN`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🏛 ICSSR AI Governance Research**
+**[🏛 ICSSR AI Governance Research](https://github.com/sxddhxrthg/icssr-research)**
 
-National research initiative — analytics pipeline across **2,200+ respondents, 6 districts** extracting trust and fairness metrics for AI-driven e-governance systems.
+Analytics pipeline processing **2,200+ survey responses across 6 districts** to extract trust and fairness metrics for AI-driven e-governance systems.
 
 `Python` `Statistical Modelling` `Research`
 
 </td>
 <td width="50%" valign="top">
 
-**☁️ SummitFlow — Event Platform**
+**[☁️ SummitFlow](https://github.com/sxddhxrthg/summitflow)**
 
-Serverless event management system built in 3 agile sprints. Powers end-to-end logistics, speaker scheduling, and attendee flows.
+Event management platform built across 3 agile sprints. Handles end-to-end logistics, speaker coordination, and attendee flows.
 
-`Serverless` `JavaScript` `Agile`
+`JavaScript` `Event Management` `Agile`
 
 </td>
 </tr>
@@ -192,7 +200,35 @@ Serverless event management system built in 3 agile sprints. Powers end-to-end l
 
 ---
 
-## ◈ LeetCode Stats
+## ◈ Experience
+
+**🎤 Summit Head — SRMIST Startup Summit 1.0** *(Sep 2025)*
+- Led a 30-member cross-functional team
+- Managed logistics for 500+ attendees
+- Coordinated speakers and industry partners
+
+**🤝 Corporate Lead — SRM ACM Student Chapter** *(Feb – Mar 2025)*
+- Secured 5+ industry sponsorships
+- Managed external collaborations and technical workshop coordination
+
+**🔬 ICSSR Research Team — AI Governance Study** *(Nov 2025 – Present)*
+- Conducted analytics on 2,200+ survey responses across six districts
+- Built Python pipelines for trust and fairness metric extraction
+
+---
+
+## ◈ Highlights
+
+| # | Achievement | Detail |
+|---|---|---|
+| 01 | 📜 Toastmasters | Certified Toastmaster — public speaking & leadership |
+| 02 | 🎓 NPTEL | ML + Java certifications |
+| 03 | 🌐 Cisco | Networking Basics certified |
+| 04 | 📊 Google | Data Analytics foundations — Coursera |
+
+---
+
+## ◈ LeetCode
 
 <div align="center">
 
@@ -217,33 +253,7 @@ Serverless event management system built in 3 agile sprints. Powers end-to-end l
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=sxddhxrthg&theme=matrix&hide_border=true&fire=00ff41&ring=00ff41&currStreakLabel=00ff41" />
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxddhxrthg&bg_color=0d1117&color=00ff41&line=00ff41&point=39d353&area=true&hide_border=true&area_color=003300" />
-
-</div>
-
----
-
-## ◈ Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sxddhxrthg&theme=onestar&no-frame=true&column=4&margin-w=8" />
-
-
-
-</div>
-
----
-
-## ◈ 3D Contribution Globe
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
 
 </div>
 
@@ -256,42 +266,22 @@ Serverless event management system built in 3 agile sprints. Powers end-to-end l
 ```
 [ ACTIVE DOWNLOADS ]
 
-  Large Language Models & RAG          ████████░░  80%
-  MLOps · Docker · FastAPI             ███████░░░  65%
-  Cloud Platforms — AWS / GCP          █████░░░░░  50%
-  Graph Neural Networks                ████░░░░░░  40%
-  System Design & Architecture         ██████░░░░  58%
-  React + TypeScript                   ███████░░░  65%
-  Competitive Programming (DSA)        ████████░░  75%
-  Computer Vision — Advanced           ███████░░░  68%
-  Transformers & Attention Mechanisms  ██████░░░░  60%
-  Database Internals & Query Opt.      █████░░░░░  48%
-  Kubernetes & DevOps                  ████░░░░░░  35%
-  Reinforcement Learning               ████░░░░░░  38%
+  Large Language Models & RAG        ████████░░  80%
+  MLOps · Docker · FastAPI           ███████░░░  65%
+  System Design & Architecture       ██████░░░░  58%
+  React + TypeScript                 ███████░░░  65%
+  Competitive Programming (DSA)      ████████░░  75%
 ```
 
 </div>
 
 ---
 
-## ◈ Highlights
-
-| # | Achievement | Detail |
-|---|---|---|
-| 01 | 🎤 Summit Head | SRMIST Startup Summit 1.0 — 500+ attendees, 30-member cross-functional team |
-| 02 | 🤝 Corporate Lead | SRM ACM Student Chapter — 5+ industry sponsorships secured |
-| 03 | 📜 Toastmasters | Certified Toastmaster — public speaking & leadership |
-| 04 | 🎓 NPTEL | ML + Java certifications |
-| 05 | 🌐 Cisco | Networking Basics certified |
-| 06 | 📊 Google | Data Analytics foundations — Coursera |
-
----
-
-## ◈ Quote
+## ◈ Trophies
 
 <div align="center">
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://github-profile-trophy.vercel.app/?username=sxddhxrthg&theme=onestar&no-frame=true&column=4&margin-w=8" />
 
 </div>
 
@@ -303,10 +293,12 @@ Serverless event management system built in 3 agile sprints. Powers end-to-end l
 01110011 01111000 01100100 01100100 01101000 01111000 01110010 01110100 01101000 01100111
 ```
 
-<sub><code>[ open to internships — SDE · ML · Full-Stack · Research ]</code></sub>
+```cpp
+while(ambitious) {
+    keep_building();
+}
+```
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:003300,100:001a00&height=80&section=footer&text=while(ambitious)%20%7B%20keep_building()%3B%20%7D&fontSize=13&fontColor=00ff41&animation=fadeIn&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:003300,100:001a00&height=80&section=footer&text=Open%20to%20Software%20Engineering%2C%20AI%2FML%20and%20Full-Stack%20opportunities&fontSize=11&fontColor=00ff41&animation=fadeIn&fontAlignY=65" />
 
 </div>
