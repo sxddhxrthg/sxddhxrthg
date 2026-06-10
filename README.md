@@ -43,7 +43,7 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-3rd year CS undergrad at SRMIST, Chennai. I build things end to end — from training ML models on satellite data to shipping mobile apps with real users. My work spans research, full-stack development, and applied AI.
+3rd year CS undergrad at SRMIST, Chennai. I build things end to end — from training ML models on satellite data to shipping mobile apps with real users and building scalable software systems. My work spans research, full-stack development, and applied AI.
 
 I've led a 500-person startup summit, managed a national research initiative across 6 districts, and shipped platforms that people actually use. I care about writing good code and building things that matter.
 
@@ -85,6 +85,8 @@ I've led a 500-person startup summit, managed a national research initiative acr
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
@@ -128,8 +130,8 @@ I've led a 500-person startup summit, managed a national research initiative acr
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude Cowork](https://img.shields.io/badge/Claude_Cowork-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 
 ---
 
@@ -139,7 +141,7 @@ I've led a 500-person startup summit, managed a national research initiative acr
 <tr>
 <td width="50%" valign="top">
 
-**[💸 Zenith — Budget Tracker](https://github.com/sxddhxrthg/zenith)**
+**[💸 Zenith Budget — Smart Expense Tracker](https://github.com/sxddhxrthg/zenith_budget)**
 
 Flutter app that parses UPI notifications, automatically categorises spending, and presents a clean analytics dashboard. Built for real daily use.
 
@@ -148,7 +150,7 @@ Flutter app that parses UPI notifications, automatically categorises spending, a
 </td>
 <td width="50%" valign="top">
 
-**[🌊 Ocean Temperature Anomaly Detection](https://github.com/sxddhxrthg/ocean-temp-anomaly)**
+**[🌊 Ocean Temperature Anomaly Detection](https://github.com/sxddhxrthg/ocean-temp-anomaly-detection)**
 
 CNN-RF ensemble (ResNet-101 + 500-tree RF) predicting North Indian Ocean SST using Copernicus satellite data across 1,190 days. **MAE: 0.07°C** — outperforms standalone CNN by **30.45%** and RF by **45.24%**.
 
@@ -159,7 +161,7 @@ CNN-RF ensemble (ResNet-101 + 500-tree RF) predicting North Indian Ocean SST usi
 <tr>
 <td width="50%" valign="top">
 
-**[⚽ Tactifit — Football Scouting](https://github.com/sxddhxrthg/tactifit)**
+**[⚽ TACTIFIT — Football Scouting](https://github.com/sxddhxrthg/TACTIFIT)**
 
 K-Means clustering engine that profiles **500+ players** across **50+ statistical features**. Built with an interactive dashboard for scouting and tactical analysis.
 
@@ -179,7 +181,7 @@ Full-stack platform with 5 integrated ML modules — KNN meal planner, CNN exerc
 <tr>
 <td width="50%" valign="top">
 
-**[🏛 ICSSR AI Governance Research](https://github.com/sxddhxrthg/icssr-research)**
+**[🏛 ICSSR AI Governance Research](https://github.com/sxddhxrthg/ICSSR-Telco-Churn-Prediction)**
 
 Analytics pipeline processing **2,200+ survey responses across 6 districts** to extract trust and fairness metrics for AI-driven e-governance systems.
 
@@ -207,13 +209,13 @@ Event management platform built across 3 agile sprints. Handles end-to-end logis
 - Managed logistics for 500+ attendees
 - Coordinated speakers and industry partners
 
-**🤝 Corporate Lead — SRM ACM Student Chapter** *(Feb – Mar 2025)*
-- Secured 5+ industry sponsorships
-- Managed external collaborations and technical workshop coordination
-
 **🔬 ICSSR Research Team — AI Governance Study** *(Nov 2025 – Present)*
 - Conducted analytics on 2,200+ survey responses across six districts
 - Built Python pipelines for trust and fairness metric extraction
+
+**🤝 Corporate Lead — SRM ACM Student Chapter** *(Feb – Mar 2025)*
+- Secured 5+ industry sponsorships
+- Managed external collaborations and technical workshop coordination
 
 ---
 
@@ -221,10 +223,11 @@ Event management platform built across 3 agile sprints. Handles end-to-end logis
 
 | # | Achievement | Detail |
 |---|---|---|
-| 01 | 📜 Toastmasters | Certified Toastmaster — public speaking & leadership |
-| 02 | 🎓 NPTEL | ML + Java certifications |
-| 03 | 🌐 Cisco | Networking Basics certified |
-| 04 | 📊 Google | Data Analytics foundations — Coursera |
+| 01 | 🎤 Summit Head | Led Startup Summit 1.0 for 500+ attendees, 30-member team |
+| 02 | 🔬 ICSSR Research | Analytics across 2,200+ responses and six districts |
+| 03 | 🤝 Corporate Lead | SRM ACM Student Chapter — industry sponsorships & workshops |
+| 04 | 📜 Toastmasters | Public speaking and leadership certified |
+| 05 | 🎓 NPTEL | ML + Java certifications |
 
 ---
 
@@ -284,6 +287,18 @@ Event management platform built across 3 agile sprints. Handles end-to-end logis
 <img src="https://github-profile-trophy.vercel.app/?username=sxddhxrthg&theme=onestar&no-frame=true&column=4&margin-w=8" />
 
 </div>
+
+---
+
+## ◈ Timeline
+
+```
+  2023  →  Started B.Tech CS at SRMIST. First lines of real code.
+  2024  →  Built ML projects. Discovered what applied AI actually means.
+  2025  →  Led Startup Summit. Joined national research. Shipped real products.
+  2026  →  Full-Stack + Flutter + AI. Building things people use.
+  2027  →  Software Engineer. ✦
+```
 
 ---
 
