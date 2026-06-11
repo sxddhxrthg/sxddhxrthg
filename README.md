@@ -293,7 +293,7 @@ Event management platform built across 3 agile sprints. Handles end-to-end logis
   2024  →  Built ML projects. Discovered what applied AI actually means.
   2025  →  Led Startup Summit. Joined national research. Shipped real products.
   2026  →  Full-Stack + Flutter + AI. Building things people use.
-  2027  →  Software Engineer. ✦ AM/ML Engineer
+  2027  →  Software Engineer. ✦ AI/ML Engineer
 ```
 
 ---
