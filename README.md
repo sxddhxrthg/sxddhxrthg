@@ -241,9 +241,13 @@ Event management platform built across 3 agile sprints. Handles end-to-end logis
 
 ---
 
-## ◈ PAC-MAN eats my contributions
+## ◈ Contributions
 
-<img src="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/pacman-dark.svg" alt="Pac-Man contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution animation" src="https://raw.githubusercontent.com/sxddhxrthg/sxddhxrthg/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
 
@@ -279,14 +283,6 @@ Event management platform built across 3 agile sprints. Handles end-to-end logis
 </div>
 
 ---
-
-## ◈ Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sxddhxrthg&theme=onestar&no-frame=true&column=4&margin-w=8" />
-
-</div>
 
 ---
 
