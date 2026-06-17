@@ -4,11 +4,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=400&color=00FF41&center=true&vCenter=true&repeat=true&width=700&lines=Wake+up%2C+Siddharth...;The+Matrix+has+you...;Follow+the+white+rabbit+%F0%9F%90%87;Knock+knock%2C+Siddharth...;You+take+the+blue+pill+%E2%80%94+the+story+ends.;You+take+the+red+pill+%E2%80%94+you+stay+in+Wonderland.;Remember%3A+all+I%27m+offering+is+the+truth.;There+is+no+spoon.;Free+your+mind.;Software+Engineer+%E2%80%A2+AI%2FML+%E2%80%A2+Full-Stack+%E2%80%A2+SRMIST+%2727;Open+to+Software+Engineering%2C+AI%2FML+and+Full-Stack+opportunities." alt="Matrix Typing SVG" />
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Siddharth_Ganesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sid09-ganesh/)
+
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sid09-ganesh/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siddharthganesh._/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/0eK30UVXc1/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sg1938)
@@ -35,15 +38,16 @@
 │  siddharth@srmist ~ $ whoami                                    │
 ├─────────────────────────────────────────────────────────────────┤
 │  role    →  Software Engineer • AI/ML Enthusiast                │
-│  degree  →  B.Tech Computer Science, SRMIST '27                 │
-│  base    →  Chennai, India                                      │
+│  degree  →  B.Tech Computer Science, SRMIST '27 (4th Year)      │
+│  base    →  Chennai, India (studying)                            │
+│  home    →  Bangalore, India                                    │
 │  stack   →  ML · Full-Stack · Flutter · DSA · Research          │
 │  status  →  Open to Software Engineering, AI/ML                 │
 │             and Full-Stack opportunities ✦                      │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-3rd year CS undergrad at SRMIST, Chennai. I build things end to end — from training ML models on satellite data to shipping mobile apps with real users and building scalable software systems. My work spans research, full-stack development, and applied AI.
+4th year CS undergrad at SRMIST, Chennai. I build things end to end — from training ML models on satellite data to shipping mobile apps with real users and building scalable software systems. My work spans research, full-stack development, and applied AI.
 
 I've led a 500-person startup summit, managed a national research initiative across 6 districts, and shipped platforms that people actually use. I care about writing good code and building things that matter.
 
@@ -52,9 +56,10 @@ I've led a 500-person startup summit, managed a national research initiative acr
 ## ◈ Current Focus
 
 ```
-• Building Zenith Budget       — Flutter app with UPI parsing & analytics
-• Learning LLMs & RAG          — applied to real projects
-• Solving DSA                  — consistent practice for placements
+• AI/ML Engineering            — LLMs, RAG, applied deep learning
+• Software Development         — building production-grade systems
+• DSA & Competitive Programming — consistent practice for placements
+• System Design                — scalable architecture patterns
 • Open to internships and collaborations
 ```
 
@@ -99,6 +104,8 @@ I've led a 500-person startup summit, managed a national research initiative acr
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-FDD800?style=flat-square&logo=knime&logoColor=black)
+![Antigravity](https://img.shields.io/badge/Antigravity-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **DSA & CS Fundamentals**
 
@@ -123,6 +130,9 @@ I've led a 500-person startup summit, managed a national research initiative acr
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
 
 **AI Tools**
 
@@ -201,14 +211,40 @@ Analytics pipeline processing **2,200+ survey responses across 6 districts** to 
 <tr>
 <td width="50%" valign="top">
 
+**[📊 Zenith Grade — Academic Tracker](https://github.com/sxddhxrthg/zenith-grade)**
+
+Student grade tracker with GPA calculation, subject-wise analytics, and semester comparison dashboards.
+
+`Flutter` `Dart` `Analytics`
+
+</td>
+<td width="50%" valign="top">
+
+**[🧮 Neo Calcland](https://github.com/sxddhxrthg/neo-calcland)**
+
+Feature-rich calculator app with scientific operations, history tracking, and a clean, modern interface.
+
+`Flutter` `Dart` `UI/UX`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[⚽ Football ETL Pipeline](https://github.com/sxddhxrthg/football-etl-pipeline)**
+
+End-to-end data pipeline that extracts, transforms, and loads football match and player statistics for downstream analytics and visualisation.
+
+`Python` `ETL` `Pandas` `Data Engineering`
+
+</td>
+<td width="50%" valign="top">
+
 **[☁️ SummitFlow](https://github.com/sxddhxrthg/summitflow)**
 
 Event management platform built across 3 agile sprints. Handles end-to-end logistics, speaker coordination, and attendee flows.
 
 `JavaScript` `Event Management` `Agile`
-
-</td>
-<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -249,7 +285,7 @@ Event management platform built across 3 agile sprints. Handles end-to-end logis
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/0eK30UVXc1?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&background=0d1117)
+![LeetCode Stats](https://leetcard.jacoblin.cool/0eK30UVXc1?theme=dark&font=JetBrains%20Mono&border=0&background=0d1117)
 
 </div>
 
@@ -274,7 +310,7 @@ Event management platform built across 3 agile sprints. Handles end-to-end logis
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=sxddhxrthg&theme=highcontrast&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=8b949e&sideNums=00ff41&currStreakNum=00ff41&stroke=003300" />
+<img src="https://streak-stats.demolab.com?user=sxddhxrthg&theme=highcontrast&hide_border=true&background=0d1117&ring=ff4444&fire=ff6347&currStreakLabel=ff4444&sideLabels=c9d1d9&dates=8b949e&sideNums=ff4444&currStreakNum=ff4444&stroke=1a0000" />
 
 <br/>
 
@@ -309,7 +345,7 @@ Event management platform built across 3 agile sprints. Handles end-to-end logis
 2024  →  Built ML projects. Discovered what applied AI actually means.
 2025  →  Led Startup Summit. Joined national research. Shipped real products.
 2026  →  Full-Stack + Flutter + AI. Building things people use.
-2027  →  Software Engineer. ✦
+2027  →  Software Engineer + AI/ML Engineer. ✦
 ```
 
 ---
