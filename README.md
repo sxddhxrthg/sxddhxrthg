@@ -52,10 +52,10 @@ I've led a 500-person startup summit, managed a national research initiative acr
 ## ◈ Current Focus
 
 ```
-  • Building Zenith Budget       — Flutter app with UPI parsing & analytics
-  • Learning LLMs & RAG          — applied to real projects
-  • Solving DSA                  — consistent practice for placements
-  • Open to internships and collaborations
+• Building Zenith Budget       — Flutter app with UPI parsing & analytics
+• Learning LLMs & RAG          — applied to real projects
+• Solving DSA                  — consistent practice for placements
+• Open to internships and collaborations
 ```
 
 ---
@@ -143,9 +143,9 @@ I've led a 500-person startup summit, managed a national research initiative acr
 
 **[💸 Zenith Budget — Smart Expense Tracker](https://github.com/sxddhxrthg/zenith_budget)**
 
-Flutter app that parses UPI notifications, automatically categorises spending, and presents a clean analytics dashboard. Built for real daily use.
+Flutter app that parses UPI & GPay notifications, automatically categorises spending, and presents a clean analytics dashboard. Built for real daily use.
 
-`Flutter` `Dart` `UPI Parsing` `Analytics`
+`Flutter` `Dart` `Kotlin` `UPI Parsing`
 
 </td>
 <td width="50%" valign="top">
@@ -170,15 +170,24 @@ K-Means clustering engine that profiles **500+ players** across **50+ statistica
 </td>
 <td width="50%" valign="top">
 
-**[🏋️ AI Nutrition & Fitness Platform](https://github.com/sxddhxrthg/fitness-platform)**
+**[🍳 AI Recipe Generator](https://github.com/sxddhxrthg/ai-recipe-generator)**
+
+AI-powered recipe generator that turns available ingredients into full recipes with step-by-step instructions. Built with a clean TypeScript frontend.
+
+`TypeScript` `AI` `LLM` `Web`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🏋️ AI Nutrition & Fitness Platform](https://github.com/sxddhxrthg/calorietracker)**
 
 Full-stack platform with 5 integrated ML modules — KNN meal planner, CNN exercise classifier, regression calorie tracker, workout planner, hydration system. **100+ users.**
 
 `Python` `JavaScript` `KNN` `CNN`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[🏛 ICSSR AI Governance Research](https://github.com/sxddhxrthg/ICSSR-Telco-Churn-Prediction)**
@@ -188,6 +197,8 @@ Analytics pipeline processing **2,200+ survey responses across 6 districts** to 
 `Python` `Statistical Modelling` `Research`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[☁️ SummitFlow](https://github.com/sxddhxrthg/summitflow)**
@@ -195,6 +206,9 @@ Analytics pipeline processing **2,200+ survey responses across 6 districts** to 
 Event management platform built across 3 agile sprints. Handles end-to-end logistics, speaker coordination, and attendee flows.
 
 `JavaScript` `Event Management` `Agile`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -260,6 +274,10 @@ Event management platform built across 3 agile sprints. Handles end-to-end logis
 
 <br/>
 
+<img src="https://streak-stats.demolab.com?user=sxddhxrthg&theme=highcontrast&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=8b949e&sideNums=00ff41&currStreakNum=00ff41&stroke=003300" />
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxddhxrthg&bg_color=0d1117&color=00ff41&line=00ff41&point=39d353&area=true&hide_border=true&area_color=003300" />
 
 </div>
@@ -284,16 +302,14 @@ Event management platform built across 3 agile sprints. Handles end-to-end logis
 
 ---
 
----
-
 ## ◈ Timeline
 
 ```
-  2023  →  Started B.Tech CS at SRMIST. First lines of real code.
-  2024  →  Built ML projects. Discovered what applied AI actually means.
-  2025  →  Led Startup Summit. Joined national research. Shipped real products.
-  2026  →  Full-Stack + Flutter + AI. Building things people use.
-  2027  →  Software Engineer. ✦ AI/ML Engineer
+2023  →  Started B.Tech CS at SRMIST. First lines of real code.
+2024  →  Built ML projects. Discovered what applied AI actually means.
+2025  →  Led Startup Summit. Joined national research. Shipped real products.
+2026  →  Full-Stack + Flutter + AI. Building things people use.
+2027  →  Software Engineer. ✦
 ```
 
 ---
